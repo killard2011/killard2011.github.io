@@ -13,3 +13,13 @@ width: 100px;
 #S4{
 
 }
+#K1{
+    background-image:url("p.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+    right: 1000px;
+    left: 200px;
+    height:100px;
+    width:200px;
+}
